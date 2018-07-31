@@ -1,0 +1,16 @@
+{
+    "name": "lvkai/test",
+    "description": "this is test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mcat",
+            "email": "dlc108725426@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Spider\\": "src/"
+        }
+    }
+}
